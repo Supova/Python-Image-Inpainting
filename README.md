@@ -1,1 +1,1 @@
-# EEC206_ImageInpainting
+# Image Inpainting
